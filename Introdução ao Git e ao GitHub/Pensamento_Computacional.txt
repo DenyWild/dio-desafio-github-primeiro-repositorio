@@ -1,0 +1,16 @@
+# Processo de pensamento envolvido na expressão de soluções em ássps computacionais ou algoritmos que podem ser implementados
+
+- Decomposição: primeiro passo na resolução de problemas dentro do conceito de pensamento computacional.
+
+- Padrões: Generalizar, com objetivo de obter resoluções para problemas diferentes.
+
+- Generalização/Abstração: 
+
+    Abstrair => Observar um ou mais elementos e avaliar características e propriedade em separado.
+    Abstração => Processo intelectual de isolamento de um objeto da realidade.
+
+- Algoritmos: Sequência de passos com objetivo definido; Conjunto de operações que resultam em uma sucessão de finitas ações.
+
+   Narrativa => Utilização da linguagem natural.
+   Fluxograma => Utilização de símbolos pré-definidos.
+   Pseudocódigo => Portugol; Regras definidas.

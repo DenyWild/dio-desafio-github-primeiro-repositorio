@@ -1,6 +1,10 @@
+# Alguns comandos do Git
+
 git clone - para clonar repositório do github.
 
 git status - ver o status dos seu arquivos, se foi commitado, se não foi, se foi modificado.
+
+git add  - atualiza o índice usando o conteúdo atual encontrado na árvore de trabalho, preparando os seus arquivos para o proximo commit.
 
 git commit - m - commita o(s) arquivo(s) para poder envia-los para o repositório.
 
