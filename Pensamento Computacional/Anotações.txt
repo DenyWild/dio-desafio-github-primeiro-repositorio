@@ -1,6 +1,6 @@
-# Processo de pensamento envolvido na expressão de soluções em ássps computacionais ou algoritmos que podem ser implementados
+# Processo de pensamento envolvido na expressão de soluções em passos computacionais ou algoritmos que podem ser implementados
 
-- Decomposição: primeiro passo na resolução de problemas dentro do conceito de pensamento computacional.
+- Decomposição: Primeiro passo na resolução de problemas dentro do conceito de pensamento computacional.
 
 - Padrões: Generalizar, com objetivo de obter resoluções para problemas diferentes.
 

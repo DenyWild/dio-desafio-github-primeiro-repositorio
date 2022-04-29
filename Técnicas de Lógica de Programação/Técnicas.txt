@@ -1,0 +1,5 @@
+- Técnica Linear: Ordenação de elementos por uma única propriedade.
+
+- Técnica Estruturada: Organização, disposição e ordem dos elementos essenciais que compõem um corpo (concreto ou abstrato).
+
+- Técnica Modular: Partes independentes; Controlado por um conjunto de regras.
