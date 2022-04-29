@@ -1,0 +1,8 @@
+git clone - para clonar repositório do github.
+
+git status - ver o status dos seu arquivos, se foi commitado, se não foi, se foi modificado.
+
+git commit - m - commita o(s) arquivo(s) para poder envia-los para o repositório.
+
+git push origin nomeDaSuaBranch - para enviar os arquivo ja commitados para o seu repositório na determinada branch escolhida.
+
